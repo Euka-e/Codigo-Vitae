@@ -1,0 +1,61 @@
+{
+    "contact": {
+        "phone": "2920538161",
+        "email": "ericdiazeuka@gmail.com",
+        "linkedin": "www.linkedin.com/in/eric-diaz-euka"
+    },
+    "skills": [
+        "Microsoft PowerPoint",
+        "Microsoft Excel",
+        "Microsoft Word"
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "level": "Native or Bilingual"
+        },
+        {
+            "language": "English",
+            "level": "Professional Working"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Full Stack Web Developer",
+            "issuer": "Henry"
+        },
+        {
+            "name": "EF SET English Certificate",
+            "score": "72/100",
+            "level": "C2 Proficient"
+        }
+    ],
+    "profile": {
+        "name": "Eric David Diaz",
+        "profilePic":"https://avatars.githubusercontent.com/u/91031571?s=400&u=384c47896fa89b09d88ecd3042b4cc893dd07aea&v=4",
+        "title": "Full-Stack Developer | NestJs | NextJs | SQL, NoSQL | Auth",
+        "location": "General Roca, Río Negro Province, Argentina"
+    },
+    "summary": "Full-stack web developer with 2+ years of experience. Mastered in Node.js, Express, NestJs, PostgreSQL, and MongoDB. Skilled in NestJS and passionate about building scalable applications. As a seasoned Teaching Assistant, I empower fellow developers to overcome complexities and foster problem-solving abilities. Dedicated to driving innovation in web development.",
+    "experience": [
+        {
+            "company": "Henry",
+            "role": "Teaching Assistant",
+            "dates": "June 2024 - August 2024",
+            "location": "Argentina",
+            "description": "Assist students in the Full Stack Web Developer career at Henry with their technical and/or administrative difficulties. Provide them with tools for resolving technical problems and work on soft skills."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Henry",
+            "degree": "Full Stack Web Developer",
+            "dates": "March 2024 - August 2024"
+        },
+        {
+            "institution": "ESRN N°19",
+            "degree": "Bachelor's degree, Information Technology",
+            "dates": "February 2017 - December 2021"
+        }
+    ]
+}
